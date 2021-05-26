@@ -5,4 +5,4 @@ Hi, I'm Diego! I am a Web Developer who is passionate about making applications 
 - 👨‍💻 I am currently learning TypeScript to use on a personal project to add to my portfolio.
 - 🤓 I have skills in React.js, Node.js, HTML, CSS, Redux
 - 🧐 My inrests include tech, videogames and pottery/ceramics.
-- 📫 How to reach me: https://www.linkedin.com/in/diego-roman-743897142/
+- 📫 How to reach me: https://www.linkedin.com/in/diegoroman22/
